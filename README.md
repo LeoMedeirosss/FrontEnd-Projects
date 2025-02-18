@@ -1,5 +1,5 @@
 # Html-Css-Projects
-Projects in only Html and css.
+Some simple projects in only Html and css.
 
 -Project Instagram: A project in HTML and CSS, recreating the Instagram Interface.
 
